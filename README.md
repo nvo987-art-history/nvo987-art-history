@@ -38,7 +38,7 @@ All identities and profiles resolve back to this domain.
 - OSF — https://osf.io/user/t8bek
 - ResearchGate — https://www.researchgate.net/profile/Nicholas-Van-Orton
 - Academia.edu — https://independentresearcher.academia.edu/NicholasVanOrton
-- Humanities Commons — https://hcommons.org/members/nicholasvanorton/
+- Humanities Commons - https://hcommons.org/members/nicholasvanorton/
 - Zotero — https://www.zotero.org/nicholasvanorton
 
 ---
@@ -129,6 +129,7 @@ visual theory · color systems · computational aesthetics · algorithmic art ·
     "https://knowledge.nvo987.us",
     "https://identity.nvo987.us",
     "https://bluesky.nvo987.us",
+    "https://hcommons.org/members/nicholasvanorton",
     "https://www.lens.org/lens/profile/nicholas-van-orton",
     "https://scholar.google.com/citations?user=iRM-GNQAAAAJ",
     "https://cv.hal.science/van-orton-nicholas",
