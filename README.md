@@ -14,6 +14,9 @@ All identities and profiles resolve back to this domain.
 - Website: https://www.nvo987.us
 - Substack: https://nvo987.substack.com
 - GitHub: https://github.com/nvo987-art-history
+- Knowledge: https://knowledge.nvo987.us
+- Identity: https://identity.nvo987.us
+- Bluesky: https://bluesky.nvo987.us
 
 ---
 
@@ -92,6 +95,9 @@ visual theory · color systems · computational aesthetics · algorithmic art ·
     "https://github.com/Visual-Theory-in-the-Age-of-Algorithms",
     "https://www.linkedin.com/in/nvo987/",
     "https://nvo987.substack.com",
+		"https://knowledge.nvo987.us",
+		"https://identity.nvo987.us",
+		"https://bluesky.nvo987.us",
     "https://www.lens.org/lens/profile/nicholas-van-orton",
     "https://scholar.google.com/citations?user=iRM-GNQAAAAJ",
     "https://cv.hal.science/van-orton-nicholas",
