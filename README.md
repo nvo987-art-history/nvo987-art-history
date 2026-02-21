@@ -34,7 +34,6 @@ All identities and profiles resolve back to this domain.
 
 - Google Scholar — https://scholar.google.com/citations?user=iRM-GNQAAAAJ
 - Lens.org — https://www.lens.org/lens/profile/nicholas-van-orton
-- Zenodo — https://zenodo.org
 - HAL — https://cv.hal.science/van-orton-nicholas
 - OSF — https://osf.io/user/t8bek
 - ResearchGate — https://www.researchgate.net/profile/Nicholas-Van-Orton
