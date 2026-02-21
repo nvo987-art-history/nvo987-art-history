@@ -57,8 +57,6 @@ All identities and profiles resolve back to this domain.
 - https://doi.org/10.5281/zenodo.18009245
 - https://doi.org/10.17605/osf.io/9jvpd
 - https://doi.org/10.17605/osf.io/cdekp
-- https://doi.org/10.17613/8y2xg-dhw35
-- https://doi.org/10.17613/wrn59-y6328
 - https://doi.org/10.5281/zenodo.18471501
 - https://doi.org/10.5281/zenodo.18569213
 - https://doi.org/10.2139/ssrn.6007654
