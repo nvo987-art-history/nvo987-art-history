@@ -71,22 +71,56 @@ visual theory · color systems · computational aesthetics · algorithmic art ·
 ## Machine-readable identity (schema.org JSON-LD)
 
 ```json
+
 {
   "@context": "https://schema.org",
   "@type": "Person",
   "@id": "https://www.nvo987.us/#person",
   "name": "Nicholas Van-Orton",
   "url": "https://www.nvo987.us",
-  "email": "nvo@nvo987.us",
-
-  "identifier": [
-    "https://orcid.org/0009-0007-4628-1871",
-    "https://isni.org/isni/0000000529640885",
-    "https://w3id.org/nvo987",
-    "https://openalex.org/A5120949417",
-    "https://www.wikidata.org/wiki/Q137675227"
+  "email": "mailto:nvo@nvo987.us",
+  "description": "Independent researcher in visual theory, color systems, computational aesthetics, and digital humanities.",
+  "knowsAbout": [
+    "Visual theory",
+    "Color systems",
+    "Computational aesthetics",
+    "Algorithmic art",
+    "Digital humanities",
+    "Metadata studies",
+    "Open science"
   ],
-
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "ORCID",
+      "value": "0009-0007-4628-1871",
+      "url": "https://orcid.org/0009-0007-4628-1871"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "ISNI",
+      "value": "0000000529640885",
+      "url": "https://isni.org/isni/0000000529640885"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "W3ID",
+      "value": "nvo987",
+      "url": "https://w3id.org/nvo987"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "OpenAlex",
+      "value": "A5120949417",
+      "url": "https://openalex.org/A5120949417"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "Wikidata",
+      "value": "Q137675227",
+      "url": "https://www.wikidata.org/wiki/Q137675227"
+    }
+  ],
   "sameAs": [
     "https://github.com/nvo987-art-history",
     "https://github.com/Visual-Theory-in-the-Age-of-Algorithms",
@@ -101,18 +135,14 @@ visual theory · color systems · computational aesthetics · algorithmic art ·
     "https://www.researchgate.net/profile/Nicholas-Van-Orton",
     "https://osf.io/user/t8bek"
   ],
-
   "subjectOf": [
-    { "@type": "ScholarlyArticle", "identifier": "https://doi.org/10.5281/zenodo.18009245" },
-    { "@type": "ScholarlyArticle", "identifier": "https://doi.org/10.17605/osf.io/9jvpd" },
-    { "@type": "ScholarlyArticle", "identifier": "https://doi.org/10.17605/osf.io/cdekp" },
-    { "@type": "ScholarlyArticle", "identifier": "https://doi.org/10.17613/8y2xg-dhw35" },
-    { "@type": "ScholarlyArticle", "identifier": "https://doi.org/10.17613/wrn59-y6328" },
-    { "@type": "ScholarlyArticle", "identifier": "https://doi.org/10.5281/zenodo.18471501" },
-    { "@type": "ScholarlyArticle", "identifier": "https://doi.org/10.5281/zenodo.18569213" },
-    { "@type": "ScholarlyArticle", "identifier": "https://doi.org/10.2139/ssrn.6007654" }
+    { "@type": "CreativeWork", "identifier": "https://doi.org/10.5281/zenodo.18009245" },
+    { "@type": "CreativeWork", "identifier": "https://doi.org/10.17605/osf.io/9jvpd" },
+    { "@type": "CreativeWork", "identifier": "https://doi.org/10.17605/osf.io/cdekp" },
+    { "@type": "CreativeWork", "identifier": "https://doi.org/10.5281/zenodo.18471501" },
+    { "@type": "CreativeWork", "identifier": "https://doi.org/10.5281/zenodo.18569213" },
+    { "@type": "CreativeWork", "identifier": "https://doi.org/10.2139/ssrn.6007654" }
   ],
-
   "affiliation": {
     "@type": "Organization",
     "name": "Visual Systems Research Network (NVO987)",
