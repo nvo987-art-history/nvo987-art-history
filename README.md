@@ -1,4 +1,4 @@
-# Nicholas Van-Orton
+# Nicholas Van-Orton (NVO987)
 
 Independent researcher working across visual theory, color studies, computational aesthetics, algorithmic image cultures, and digital humanities.
 
