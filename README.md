@@ -67,7 +67,7 @@ All identities and profiles resolve back to this domain.
 
 ## Research areas
 
-visual theory · color systems · computational aesthetics · algorithmic art · image culture · digital humanities · metadata studies · open science
+visual theory · color systems · computational aesthetics · algorithmic art · image culture · digital humanities · metadata studies · open science · nvo987
 
 ---
 
