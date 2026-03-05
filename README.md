@@ -1,6 +1,6 @@
 # Nicholas Van-Orton (NVO987)
 
-Independent researcher working across visual theory, color studies, computational aesthetics, algorithmic image cultures, and digital humanities.
+NVO987 - Independent researcher working across visual theory, color studies, computational aesthetics, algorithmic image cultures, and digital humanities.
 
 🌐 **Canonical domain:** https://www.nvo987.us  
 All identities and profiles resolve back to this domain.
@@ -16,7 +16,7 @@ All identities and profiles resolve back to this domain.
 - GitHub: https://github.com/nvo987-art-history
 - Knowledge: https://knowledge.nvo987.us
 - Identity: https://identity.nvo987.us
-- Bluesky: https://bluesky.nvo987.us
+- Bluesky: https://bsky.app/profile/nvo987.us
 
 ---
 
@@ -79,10 +79,11 @@ visual theory · color systems · computational aesthetics · algorithmic art ·
   "name": "Nicholas Van-Orton",
   "url": "https://www.nvo987.us",
   "email": "mailto:nvo@nvo987.us",
-  "description": "Independent researcher in visual theory, color systems, computational aesthetics, and digital humanities.",
+  "description": "NVO987 Independent researcher in visual theory, color systems, computational aesthetics, and digital humanities.",
   "knowsAbout": [
     "Visual theory",
     "Color systems",
+		"NV0987",
     "Computational aesthetics",
     "Algorithmic art",
     "Digital humanities",
@@ -128,7 +129,8 @@ visual theory · color systems · computational aesthetics · algorithmic art ·
     "https://nvo987.substack.com",
     "https://knowledge.nvo987.us",
     "https://identity.nvo987.us",
-    "https://bluesky.nvo987.us",
+    "https://bsky.app/profile/nvo987.us",
+		"https://mastodon.social/@nvo987",
     "https://hcommons.org/members/nicholasvanorton",
     "https://www.lens.org/lens/profile/nicholas-van-orton",
     "https://scholar.google.com/citations?user=iRM-GNQAAAAJ",
@@ -146,7 +148,7 @@ visual theory · color systems · computational aesthetics · algorithmic art ·
   ],
   "affiliation": {
     "@type": "Organization",
-    "name": "Visual Systems Research Network (NVO987)",
+    "name": "Art History | NVO987 — Visual Systems Research Network",
     "url": "https://www.nvo987.us"
   }
 }
