@@ -130,7 +130,7 @@ visual theory · color systems · computational aesthetics · algorithmic art ·
     "https://knowledge.nvo987.us",
     "https://identity.nvo987.us",
     "https://bsky.app/profile/nvo987.us",
-		"https://mastodon.social/@nvo987",
+    "https://mastodon.social/@nvo987",
     "https://hcommons.org/members/nicholasvanorton",
     "https://www.lens.org/lens/profile/nicholas-van-orton",
     "https://scholar.google.com/citations?user=iRM-GNQAAAAJ",
