@@ -2,7 +2,7 @@
 
 NVO987 - Independent researcher working across visual theory, color studies, computational aesthetics, algorithmic image cultures, and digital humanities.
 
-🌐 **Canonical domain:** https://www.identity.nvo987.us  
+🌐 **Canonical domain:** https://identity.nvo987.us  
 All identities and profiles resolve back to this domain.
 
 ---
