@@ -83,7 +83,7 @@ visual theory · color systems · computational aesthetics · algorithmic art ·
   "knowsAbout": [
     "Visual theory",
     "Color systems",
-		"NV0987",
+	"NV0987",
     "Computational aesthetics",
     "Algorithmic art",
     "Digital humanities",
