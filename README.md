@@ -16,7 +16,7 @@ All identities and profiles resolve back to this domain.
 - GitHub: https://github.com/nvo987-art-history
 - Knowledge: https://knowledge.nvo987.us
 - Identity: https://identity.nvo987.us
-- Bluesky: https://bsky.app/profile/nvo987.us
+- Bluesky: https://bluesky.nvo987.us
 
 ---
 
@@ -129,8 +129,8 @@ visual theory · color systems · computational aesthetics · algorithmic art ·
     "https://nvo987.substack.com",
     "https://knowledge.nvo987.us",
     "https://identity.nvo987.us",
-    "https://bsky.app/profile/nvo987.us",
-    "https://mastodon.social/@nvo987",
+    "https://bluesky.nvo987.us",
+    "https://mastodon.nvo987.us",
     "https://hcommons.org/members/nicholasvanorton",
     "https://www.lens.org/lens/profile/nicholas-van-orton",
     "https://scholar.google.com/citations?user=iRM-GNQAAAAJ",
