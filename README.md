@@ -11,12 +11,6 @@ All identities and profiles resolve back to this domain.
 
 - Email: nvo@nvo987.us
 - Secondary: 0730nicholas@gmail.com
-- Website: https://www.nvo987.us
-- Substack: https://nvo987.substack.com
-- GitHub: https://github.com/nvo987-art-history
-- Knowledge: https://knowledge.nvo987.us
-- Identity: https://identity.nvo987.us
-- Bluesky: https://bluesky.nvo987.us
 
 ---
 
@@ -47,7 +41,6 @@ All identities and profiles resolve back to this domain.
 
 - LinkedIn — https://www.linkedin.com/in/nvo987/
 - LinkedIn Organization — https://www.linkedin.com/company/nvo987
-- GitHub Org — https://github.com/Visual-Theory-in-the-Age-of-Algorithms
 
 ---
 
