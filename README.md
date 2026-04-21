@@ -117,7 +117,6 @@ visual theory · color systems · computational aesthetics · algorithmic art ·
   ],
   "sameAs": [
     "https://github.com/nvo987-art-history",
-    "https://github.com/Visual-Theory-in-the-Age-of-Algorithms",
     "https://www.linkedin.com/in/nvo987/",
     "https://nvo987.substack.com",
     "https://knowledge.nvo987.us",
