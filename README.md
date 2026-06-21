@@ -2,15 +2,14 @@
 
 NVO987 - Independent researcher working across visual theory, color studies, computational aesthetics, algorithmic image cultures, and digital humanities.
 
-🌐 **Canonical domain:** https://identity.nvo987.us  
+🌐 **Canonical domain:** https://nexarium.us 
 All identities and profiles resolve back to this domain.
 
 ---
 
 ## Contact
 
-- Email: nvo@nvo987.us
-- Secondary: 0730nicholas@gmail.com
+- Email: contact@nexarium.us
 
 ---
 
@@ -18,29 +17,14 @@ All identities and profiles resolve back to this domain.
 
 - ORCID — https://orcid.org/0009-0007-4628-1871
 - ISNI — https://isni.org/isni/0000000529640885
-- W3ID — https://w3id.org/nvo987
 - OpenAlex — https://openalex.org/A5120949417
 - Wikidata — https://www.wikidata.org/wiki/Q137675227
-
----
-
-## Scholarly & research profiles
-
-- Google Scholar — https://scholar.google.com/citations?user=iRM-GNQAAAAJ
-- Lens.org — https://www.lens.org/lens/profile/nicholas-van-orton
-- HAL — https://cv.hal.science/van-orton-nicholas
-- OSF — https://osf.io/user/t8bek
-- ResearchGate — https://www.researchgate.net/profile/Nicholas-Van-Orton
-- Academia.edu — https://independentresearcher.academia.edu/NicholasVanOrton
-- Humanities Commons - https://hcommons.org/members/nicholasvanorton/
-- Zotero — https://www.zotero.org/nicholasvanorton
 
 ---
 
 ## Professional
 
 - LinkedIn — https://www.linkedin.com/in/nvo987/
-- LinkedIn Organization — https://www.linkedin.com/company/nvo987
 
 ---
 
@@ -71,7 +55,7 @@ visual theory · color systems · computational aesthetics · algorithmic art ·
   "@id": "https://www.nvo987.us/#person",
   "name": "Nicholas Van-Orton",
   "url": "https://www.nvo987.us",
-  "email": "mailto:nvo@nvo987.us",
+  "email": "mailto:contact@nexarium.us",
   "description": "NVO987 Independent researcher in visual theory, color systems, computational aesthetics, and digital humanities.",
   "knowsAbout": [
     "Visual theory",
@@ -95,13 +79,7 @@ visual theory · color systems · computational aesthetics · algorithmic art ·
       "propertyID": "ISNI",
       "value": "0000000529640885",
       "url": "https://isni.org/isni/0000000529640885"
-    },
-    {
-      "@type": "PropertyValue",
-      "propertyID": "W3ID",
-      "value": "nvo987",
-      "url": "https://w3id.org/nvo987"
-    },
+    }, 
     {
       "@type": "PropertyValue",
       "propertyID": "OpenAlex",
@@ -118,11 +96,10 @@ visual theory · color systems · computational aesthetics · algorithmic art ·
   "sameAs": [
     "https://github.com/nvo987-art-history",
     "https://www.linkedin.com/in/nvo987/",
-    "https://nvo987.substack.com",
+    "https://art.nvo987.us",
     "https://knowledge.nvo987.us",
     "https://identity.nvo987.us",
     "https://bluesky.nvo987.us",
-    "https://mastodon.nvo987.us",
     "https://hcommons.org/members/nicholasvanorton",
     "https://www.lens.org/lens/profile/nicholas-van-orton",
     "https://scholar.google.com/citations?user=iRM-GNQAAAAJ",
