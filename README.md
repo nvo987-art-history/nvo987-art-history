@@ -114,7 +114,7 @@ visual theory · color systems · computational aesthetics · algorithmic art ·
   ],
   "affiliation": {
     "@type": "Organization",
-    "name": "Art History | NVO987 — Visual Systems Research Network",
-    "url": "https://www.nvo987.us"
+    "name": "NVO987 - Culture Visuelle Moderne et Contemporaine",
+    "url": "https://www.nvo987.fr"
   }
 }
