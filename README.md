@@ -43,7 +43,10 @@ visual theory · color systems · computational aesthetics · algorithmic art ·
 ---
 
 ## Machine-readable identity (schema.org JSON-LD)
+<details>
+<summary>Machine-readable identity (Schema.org JSON-LD)</summary>
 
+```json
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -69,3 +72,6 @@ visual theory · color systems · computational aesthetics · algorithmic art ·
   }
 }
 </script>
+```
+
+</details>
