@@ -44,77 +44,28 @@ visual theory · color systems · computational aesthetics · algorithmic art ·
 
 ## Machine-readable identity (schema.org JSON-LD)
 
-```json
-
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Person",
-  "@id": "https://www.nvo987.us/#person",
-  "name": "Nicholas Van-Orton",
-  "url": "https://www.nvo987.us",
-  "email": "mailto:contact@nexarium.us",
-  "description": "NVO987 Independent researcher in visual theory, color systems, computational aesthetics, and digital humanities.",
-  "knowsAbout": [
-    "Visual theory",
-    "Color systems",
-	"NV0987",
-    "Computational aesthetics",
-    "Algorithmic art",
-    "Digital humanities",
-    "Metadata studies",
-    "Open science"
-  ],
-  "identifier": [
-    {
-      "@type": "PropertyValue",
-      "propertyID": "ORCID",
-      "value": "0009-0007-4628-1871",
-      "url": "https://orcid.org/0009-0007-4628-1871"
-    },
-    {
-      "@type": "PropertyValue",
-      "propertyID": "ISNI",
-      "value": "0000000529640885",
-      "url": "https://isni.org/isni/0000000529640885"
-    }, 
-    {
-      "@type": "PropertyValue",
-      "propertyID": "OpenAlex",
-      "value": "A5120949417",
-      "url": "https://openalex.org/A5120949417"
-    },
-    {
-      "@type": "PropertyValue",
-      "propertyID": "Wikidata",
-      "value": "Q137675227",
-      "url": "https://www.wikidata.org/wiki/Q137675227"
-    }
-  ],
+  "@type": "Organization",
+  "@id": "https://nvo987.fr/#organization",
+  "name": "NVO987 – Culture Visuelle Moderne et Contemporaine",
+  "url": "https://nvo987.fr/",
   "sameAs": [
-    "https://github.com/nvo987-art-history",
-    "https://www.linkedin.com/in/nvo987/",
-    "https://art.nvo987.us",
-    "https://knowledge.nvo987.us",
-    "https://identity.nvo987.us",
-    "https://bluesky.nvo987.us",
-    "https://hcommons.org/members/nicholasvanorton",
-    "https://www.lens.org/lens/profile/nicholas-van-orton",
-    "https://scholar.google.com/citations?user=iRM-GNQAAAAJ",
-    "https://cv.hal.science/van-orton-nicholas",
-    "https://www.researchgate.net/profile/Nicholas-Van-Orton",
-    "https://osf.io/user/t8bek"
+    "https://www.wikidata.org/wiki/Q141086020",
+    "https://www.openstreetmap.org/node/1409757849"
   ],
-  "subjectOf": [
-    { "@type": "CreativeWork", "identifier": "https://doi.org/10.5281/zenodo.18009245" },
-    { "@type": "CreativeWork", "identifier": "https://doi.org/10.17605/osf.io/9jvpd" },
-    { "@type": "CreativeWork", "identifier": "https://doi.org/10.17605/osf.io/cdekp" },
-    { "@type": "CreativeWork", "identifier": "https://doi.org/10.5281/zenodo.18471501" },
-    { "@type": "CreativeWork", "identifier": "https://doi.org/10.5281/zenodo.18569213" },
-    { "@type": "CreativeWork", "identifier": "https://doi.org/10.2139/ssrn.6007654" }
-  ],
-  "affiliation": {
-    "@type": "Organization",
-    "name": "NVO987 - Culture Visuelle Moderne et Contemporaine",
-    "url": "https://www.nvo987.fr"
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "44 Rue Pasquier",
+    "postalCode": "75008",
+    "addressLocality": "Paris",
+    "addressCountry": "FR"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.8748353,
+    "longitude": 2.3240104
   }
 }
+</script>
