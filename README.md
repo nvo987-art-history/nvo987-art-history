@@ -18,7 +18,6 @@ All identities and profiles resolve back to this domain.
 - ORCID — https://orcid.org/0009-0007-4628-1871
 - ISNI — https://isni.org/isni/0000000529640885
 - OpenAlex — https://openalex.org/A5120949417
-- Wikidata — https://www.wikidata.org/wiki/Q137675227
 
 ---
 
@@ -55,7 +54,6 @@ visual theory · color systems · computational aesthetics · algorithmic art ·
   "name": "NVO987 – Culture Visuelle Moderne et Contemporaine",
   "url": "https://nvo987.fr/",
   "sameAs": [
-    "https://www.wikidata.org/wiki/Q141086020",
     "https://www.openstreetmap.org/node/1409757849"
   ],
   "address": {
