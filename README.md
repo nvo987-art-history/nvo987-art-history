@@ -9,7 +9,7 @@ All identities and profiles resolve back to this domain.
 
 ## Contact
 
-- Email: contact@nexarium.us
+- Email: contact@nvo987.fr
 
 ---
 
@@ -17,7 +17,6 @@ All identities and profiles resolve back to this domain.
 
 - ORCID — https://orcid.org/0009-0007-4628-1871
 - ISNI — https://isni.org/isni/0000000529640885
-- OpenAlex — https://openalex.org/A5120949417
 
 ---
 
@@ -29,9 +28,35 @@ All identities and profiles resolve back to this domain.
 
 ## Publications & research outputs (DOI)
 
-- https://doi.org/10.17605/osf.io/9jvpd
-- https://doi.org/10.17605/osf.io/cdekp
-- https://doi.org/10.2139/ssrn.6007654
+- https://doi.org/10.17613/QS22F-VA721 — Color as a Generative Principle in the Work of Sonia Delaunay - Art historical research – Research summary
+
+- https://doi.org/10.17613/XT6VK-HJV23 — NVO987 – Culture Visuelle Moderne et Contemporaine – Official Association Logo
+
+- https://doi.org/10.17605/OSF.IO/TRFKG — Civilizational Interpretive Ratio
+
+- https://doi.org/10.5281/ZENODO.22347668 — Color as a Generative Principle in the Work of Sonia Delaunay
+
+- https://doi.org/10.5281/ZENODO.22204421 — Children's Color Acquisition Across Cultural Environments in the Age of Algorithms
+
+- https://doi.org/10.17605/OSF.IO/AVZC9 — Children’s Color Acquisition Across Cultural Environments in the Age of Algorithms
+
+- https://doi.org/10.5281/ZENODO.22029825 — The Role of Color in Pedagogical and Learning Environments and Children's Perception
+
+- https://doi.org/10.17605/OSF.IO/WZB5A — The Role of Color in Pedagogical and Learning Environments and Children’s Perception
+
+- https://doi.org/10.17613/802RD-BJR69 — Color as a Generative Principle in the Work of Sonia Delaunay
+
+- https://doi.org/10.17613/Q8WEV-1CV44 — A szín mint generatív elv Sonia Delaunay életművében – EPUB kiadás
+
+- https://doi.org/10.17613/zarwd-m2r73 — A szín mint generatív elv Sonia Delaunay életművében
+
+- https://doi.org/10.17613/y22fc-g0f98 — A szín mint generatív elv Sonia Delaunay életművében
+
+- https://doi.org/10.17605/OSF.IO/9JVPd — Color as a Generative Principle in the Work of Sonia Delaunay: Research Project
+
+- https://doi.org/10.17605/OSF.IO/CDEKP — Interdisciplinary Framework for Color Theory in Algorithmic Image Production
+
+- https://doi.org/10.2139/ssrn.6131506 — Interdisciplinary Foundation Edition 
 
 ---
 
